@@ -1,6 +1,8 @@
 ## Practice Challenge
 
-Welcome to BookLiker, where you can look at books and like them! (Hey, not all startups are brilliant ideas.)
+You may remember this challenge from Mod 3!  
+This one is the React version - might look a bit different to the gif below,  as we've used Semantic UI to style. 
+Have a think about what components you'll need to recreate Bookliker in React...what will you need to keep track of in `state`? 
 
 ### Getting Started
 
